@@ -12,6 +12,12 @@ html {
 
 @media only screen and (max-width: 1170px) {
   #monkey {
-    
+    top: 0px;
+  }
+}
+
+@media only screen and (max-width: 642px) {
+  #monkey {
+    top: 550px;
   }
 }
